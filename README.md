@@ -72,11 +72,3 @@ make html
 # Contribution
 * Supplementary features could be requested using github issues.
 * Other contributions are welcomed and can be integrated using pull requests.
-
-# License information
-Copyright 2022-2023 IRT SystemX
-
-    IRT SystemX: https://www.irt-systemx.fr/
-
-This Source Code is subject to the terms of the Mozilla Public License (MPL) v2 also available
-[here](https://www.mozilla.org/en-US/MPL/2.0/)
